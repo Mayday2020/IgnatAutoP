@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IgnatAutoP/static/css/main.94f54531.css",
+    "main.js": "/IgnatAutoP/static/js/main.fe2bf688.js",
+    "static/js/787.66cb4309.chunk.js": "/IgnatAutoP/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/IgnatAutoP/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/IgnatAutoP/index.html",
+    "main.94f54531.css.map": "/IgnatAutoP/static/css/main.94f54531.css.map",
+    "main.fe2bf688.js.map": "/IgnatAutoP/static/js/main.fe2bf688.js.map",
+    "787.66cb4309.chunk.js.map": "/IgnatAutoP/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94f54531.css",
+    "static/js/main.fe2bf688.js"
+  ]
+}
